@@ -1,0 +1,75 @@
+Here are some realistic **business questions** you can answer using your UpGrad Learning Support Center dataset in Power BI:
+
+### Enrollment Analysis
+
+1. How many students enrolled each month?
+2. Which course has the highest number of enrollments?
+3. Which city contributes the most enrollments?
+4. What is the enrollment trend over time?
+5. Which counselor enrolled the most students?
+
+### Revenue Analysis
+
+6. What is the total revenue generated from course fees?
+7. How much revenue comes from each course?
+8. What is the revenue contribution by city?
+9. How much revenue is pending due to unpaid or partially paid fees?
+10. Which course generates the highest average fee per student?
+
+### Lead Source Analysis
+
+11. Which lead source generates the most enrollments?
+12. Which lead source generates the highest revenue?
+13. What is the conversion rate of each lead source?
+14. Which lead source produces the most placed students?
+15. What percentage of students come from referrals?
+
+### Student Performance Dashboard
+
+16. What is the average attendance percentage by course?
+17. Which course has the highest average final test score?
+18. Is there a relationship between attendance and final test scores?
+19. How many students scored above 80 in the final test?
+20. Which trainer's students have the highest average scores?
+
+### Placement Dashboard
+
+21. What is the overall placement rate?
+22. Which course has the highest placement rate?
+23. Which company hired the most students?
+24. What is the average placement package by course?
+25. Which city has the highest number of placed students?
+26. What percentage of completed students got placed?
+27. What is the distribution of placement packages?
+
+### Trainer Performance Dashboard
+
+28. Which trainer handles the most students?
+29. Which trainer has the highest average attendance rate?
+30. Which trainer has the highest average assignment score?
+31. Which trainer has the highest placement rate?
+32. Which trainer's students report the highest satisfaction ratings?
+
+### Student Satisfaction Dashboard
+
+33. What is the average student satisfaction rating?
+34. Which course receives the highest satisfaction rating?
+35. Is satisfaction related to placement status?
+36. Which trainer receives the highest student ratings?
+37. How does satisfaction vary across cities?
+
+### Advanced Business Questions
+
+38. Do students with attendance above 85% perform better in final tests?
+39. Does payment status affect course completion rates?
+40. Which combination of course and lead source generates the highest revenue?
+41. Which counselors bring the highest-value students?
+42. What factors most influence placement success?
+43. What is the average package for students scoring above 80?
+44. Which course offers the best ROI (Placement Package vs Course Fee)?
+45. What percentage of students are still ongoing?
+46. Which batch has the highest completion rate?
+47. Which batch has the highest placement rate?
+48. What are the top 5 insights management should focus on?
+
+These questions are excellent for creating Power BI dashboards, KPIs, drill-through pages, slicers, and DAX measures.
