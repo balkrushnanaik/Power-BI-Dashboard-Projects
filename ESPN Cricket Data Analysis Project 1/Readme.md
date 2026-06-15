@@ -1,7 +1,7 @@
 # ESPN Cricket Analytics Dashboard
 
 ## Project Link
-[View Dashboard](https://app.powerbi.com/links/2wec5Ol5kz?ctid=47597e9d-1d04-4aeb-9af9-10e1babce353&pbi_source=linkShare&bookmarkGuid=645121ce-1cc7-4a44-8d7a-f876d2ab8679)
+[View Dashboard]()
 
 ## Project Overview
 
