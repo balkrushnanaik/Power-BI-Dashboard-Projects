@@ -90,8 +90,3 @@ During this project, I learned how to:
 * Develop DAX measures and calculated columns.
 * Design dashboards that provide meaningful business and healthcare insights.
 
----
-
-## 🎯 Conclusion
-
-This project demonstrates my ability to work with cloud databases, SQL, data transformation, and business intelligence tools to solve real-world analytical problems. It highlights my skills in creating interactive dashboards and extracting actionable insights from healthcare data, making it a strong addition to my Data Analyst portfolio.
